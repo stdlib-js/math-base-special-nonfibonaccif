@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-20)
+## Unreleased (2025-06-29)
 
 <section class="features">
 
@@ -32,6 +32,8 @@
 
 <details>
 
+-   [`a51fa22`](https://github.com/stdlib-js/stdlib/commit/a51fa22399f36b4d83ba0d189d297af4aa429354) - **docs:** minor clean-up _(by Philipp Burckhardt)_
+-   [`dd6d9cf`](https://github.com/stdlib-js/stdlib/commit/dd6d9cff0105270f0664490f3c89b36d4df89032) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5f81198`](https://github.com/stdlib-js/stdlib/commit/5f8119831537ea1b9707d13c96cc3f5ec420748f) - **fix:** update  parameter handling due to int32 type _(by Philipp Burckhardt)_
 -   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
