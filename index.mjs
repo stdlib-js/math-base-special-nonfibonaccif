@@ -1,4 +1,0 @@
-// Copyright (c) 2025 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import s from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nanf@esm/index.mjs";import t from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-integerf@esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lnf@esm/index.mjs";import i from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floorf@esm/index.mjs";import n from"https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-phi@esm/index.mjs";import m from"https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@esm/index.mjs";var r=2.23606797749979,d=e(n);function a(n){var a,o;return s(n)||!1===t(n)||n<1||n===m?NaN:(a=e((n+=1)*r)/d,o=e(r*(n+a)-5+3/n)/d,i(n+o-2))}export{a as default};
-//# sourceMappingURL=index.mjs.map
