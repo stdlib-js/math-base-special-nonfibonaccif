@@ -48,7 +48,8 @@
     "@stdlib/math-base-napi-unary": "^0.2.5",
     "@stdlib/math-base-special-floorf": "^0.2.2",
     "@stdlib/math-base-special-lnf": "^0.0.2",
-    "@stdlib/utils-library-manifest": "^0.2.3"
+    "@stdlib/utils-library-manifest": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
