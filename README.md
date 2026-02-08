@@ -69,6 +69,11 @@ where `φ` is the [golden ratio][golden-ratio].
 ## Usage
 
 ```javascript
+import nonfibonaccif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nonfibonaccif@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-nonfibonaccif/tags). For example,
+
+```javascript
 import nonfibonaccif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nonfibonaccif@v0.1.1-deno/mod.js';
 ```
 
@@ -123,7 +128,7 @@ var v = nonfibonaccif( NaN );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import nonfibonaccif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nonfibonaccif@v0.1.1-deno/mod.js';
+import nonfibonaccif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nonfibonaccif@deno/mod.js';
 
 var i;
 for ( i = 1; i < 100; i++ ) {
