@@ -69,7 +69,7 @@ where `φ` is the [golden ratio][golden-ratio].
 ## Usage
 
 ```javascript
-import nonfibonaccif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nonfibonaccif@deno/mod.js';
+import nonfibonaccif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nonfibonaccif@v0.1.1-deno/mod.js';
 ```
 
 #### nonfibonaccif( n )
@@ -123,7 +123,7 @@ var v = nonfibonaccif( NaN );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import nonfibonaccif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nonfibonaccif@deno/mod.js';
+import nonfibonaccif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nonfibonaccif@v0.1.1-deno/mod.js';
 
 var i;
 for ( i = 1; i < 100; i++ ) {
